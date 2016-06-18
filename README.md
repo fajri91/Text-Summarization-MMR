@@ -10,7 +10,7 @@ The MMR criterion strives to reduce redudancy while maintaining the content rele
 
 - This code is implemented in Python
 - Since I built it for Bahasa Indonesia, I use Sastrawi libary for stemming ```pip install Sastrawi```
-- The list of stopwords in Bahasa Indonesia (as provided in this folder)
+- The list of stopwords is in Bahasa Indonesia (as provided in this folder)
 - It also use "sklearn libarary". Please install it by ```pip install sklearn```
 - And this one ```pip install termcolor```
 
