@@ -1,6 +1,6 @@
 # TextSummarization-MMR
 
-MMR (Maximum Maarginal Relevance) is an extractive summarization that was introduced by Jaime Carbonell and Jade Goldstein.
+MMR (Maximum Marginal Relevance) is an extractive summarization that was introduced by Jaime Carbonell and Jade Goldstein.
 http://repository.cmu.edu/cgi/viewcontent.cgi?article=1330&context=compsci
 
 MMR aims to obtain the most relevance sentences by scoring whole sentences in the document.
